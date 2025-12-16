@@ -1,109 +1,118 @@
-# 👋 Hi, I'm Nhut Vinh
+👋 Hi, I'm Nhut Vinh Le Quynh
 
+AI Engineer | Backend & Data Engineer
+📍 Viet Nam
+
+🎓 Studying Data Engineering at HCMC University of Technology and Education (HCMUTE)
+🤖 Interested in RAG systems, LLM applications & real-world AI products
+
+🚀 About Me
+
+I’m an aspiring AI / Backend Engineer who focuses on building practical, production-oriented systems, not tutorial clones.
+
+🔍 Strong interest in Retrieval-Augmented Generation (RAG)
+
+🧠 Experience working with LLMs for fact-checking & information verification
+
+⚙️ Backend mindset: scalability, modular design, performance
+
+📊 Background in Data Engineering & Big Data processing
+
+I believe code is not the goal — solving real problems is.
+
+🛡️ Featured Project
+Fake News Detection System
+
+AI-powered Fact-Checking Platform for Vietnamese News
+
+🔹 Problem: Fake news spreads fast, while manual verification is slow and biased
+🔹 Solution: Automated verification using RAG + LLMs + multi-source evidence
+
+Highlights
+
+⚡ < 10s response time with 15+ trusted sources
+
+🎯 ~92% accuracy on internal test set (200+ real claims)
+
+🌐 Cross-checking from major Vietnamese news outlets
+
+🔍 Transparent verdict with stance + citations
+
+Tech Stack
+FastAPI • React • Llama-3.3-70B • Vietnamese Bi-Encoder • SQLite • Docker
+
+👉 Project Repo:
+🔗 https://github.com/DOIMA666/fake-news-checker
+
+🧠 What I’m Currently Learning
+
+🌱 RAG optimization for Vietnamese language
+
+🌱 LLM inference efficiency (batching, latency reduction)
+
+🌱 Backend system design for AI products
+
+🌱 Prompt engineering & evaluation strategies
+
+💻 Tech Stack
+Languages
+
+Python
+
+Java
+
+C++
+
+C#
+
+SQL
+
+AI / Data
+
+Retrieval-Augmented Generation (RAG)
+
+Hugging Face
+
+Sentence Transformers
+
+Scikit-learn
+
+Pandas, NumPy
+
+Apache Spark
+
+Backend / DevOps
+
+FastAPI
+
+REST API Design
+
+Docker
+
+SQLite / MySQL
+
+Git & GitHub
+
+Frontend (working knowledge)
+
+React
+
+TailwindCSS
+
+📊 GitHub Stats
 <div align="center">
-
-🎓 **HCMC University of Technology and Education**  
-🤖 **AI Engineer | Data Engineer**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhutvinh7)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nhutvinh.lequynh.7/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lequynhnhutvinh@gmail.com)
 
 </div>
+📫 Contact Me
 
----
+📧 Email: lequynhnhutvinh@gmail.com
 
-## 🚀 About Me
+💼 LinkedIn: https://www.linkedin.com/in/nhutvinh7
 
-AI Engineer focusing on **RAG systems** and **LLM applications**. Passionate about building intelligent solutions for real-world problems.
-
-Currently working on: **Fake News Detection System** using RAG + Llama-3.3-70B (85%+ accuracy)
-
----
-
-## 🛡️ Featured Project: Fake News Detection
-
-**Automated Fact-Checking Platform with RAG Architecture**
-
-**Key Features:**
-- ⚡ < 5 seconds response time (15+ sources)
-- 🎯 85.4% accuracy on test dataset
-- 🌐 Multi-source verification from Vietnamese news
-- 🔄 Real-time processing with parallel search
-
-**Tech Stack:** FastAPI • React • Llama-3.3-70B • Vietnamese Bi-Encoder • Docker
-
-**🔗 [View Project →](https://github.com/DOIMA666/Fake_News_Detection)**
-
----
-
-## 💻 Tech Stack
-
-### AI & ML
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### LLM & NLP
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-FF6B00?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Data Science
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-
-
-### Development
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 Other Projects
-
-**Data Science:**
-- [Data Mining](https://github.com/DOIMA666/Data-mining) - Pattern extraction from large datasets
-- [Big Data Analysis](https://github.com/DOIMA666/Big-Data-Analysis) - Apache Spark processing
-- [Data Visualization](https://github.com/DOIMA666/Data-Visualization) - Interactive dashboards
-- [Data Warehouse](https://github.com/DOIMA666/Data-warehouse) - ETL pipelines
-
-**Full-Stack:**
-- [Library Management](https://github.com/pthngws/library-management) - C# .NET application
-
----
-
-## 📈 GitHub Stats
+🌐 GitHub: https://github.com/DOIMA666
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=DOIMA666&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DOIMA666&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🔬 **Research**: RAG optimization techniques for Vietnamese language
-- 🚀 **Building**: Production-grade LLM applications with LangChain
-- 📚 **Learning**: Advanced prompt engineering & fine-tuning strategies
-- 🤝 **Contributing**: Open-source AI/ML projects
-
----
-
-<div align="center">
-
-**"Building AI systems that verify truth, not just process text"** 🔍
-
-![Profile Views](https://komarev.com/ghpvc/?username=DOIMA666&color=blueviolet&style=for-the-badge)
+“Build systems that help people decide what to trust.” 🔍
 
 </div>
